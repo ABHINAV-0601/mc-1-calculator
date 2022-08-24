@@ -8,7 +8,6 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 public class MathematicalCalculatorTest {
     MathematicalCalculator mc;
-
     @Before
    public void setUp()
     {
